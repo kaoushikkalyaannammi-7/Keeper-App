@@ -16,6 +16,6 @@ A simple note-taking web application inspired by Google Keep, built while learni
 - Vite
 
 ## 🚀 Getting Started
-open bash
+```open bash
 npm install
 npm run dev
